@@ -1,3 +1,0 @@
-**Test string
-
-ANother string**
